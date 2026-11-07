@@ -1,0 +1,7 @@
+[project]
+name = "seerah-py-darb-zubaydah-stations"
+version = "1.0.0"
+description = "Darb Zubaydah & Historic Hajj Caravan Route Birkat/Milestone Graph (خريطة محطات درب زبيدة وطرق الحج التاريخية)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
